@@ -7,5 +7,6 @@ public class JohnHDailyInfos {
 	
 	public void getDate(String date) {
 		this.date = date;
+		//f
 	}
 }
